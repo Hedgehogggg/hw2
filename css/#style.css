@@ -1,0 +1,29 @@
+
+    body 
+    {
+        background-image: url('images/tokyo.jpg');
+        background-repeat: no-repeat;
+        background-position:center top;
+        background-size: 100% 200px;
+    }
+    ul 
+    {
+	    list-style-type: none;
+    }
+
+    .menu
+    {
+        background-color: #000000;
+    } 
+
+    
+    footer
+    {
+	    clear: both;
+	    background: rgb(68, 68, 68);
+	    padding: 10px;
+	    border-top: 2px solid #ddd;
+	    text-align: center;
+	    color: rgb(255, 255, 255);
+    }
+
